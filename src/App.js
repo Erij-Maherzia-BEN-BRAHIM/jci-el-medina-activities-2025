@@ -15,7 +15,7 @@ function App() {
               <p className="text-[#414042] mt-2">Activities & Events 2025</p>
             </div>
             <img
-              src="EL Medina.png"
+              src="ELMedina.png"
               alt="JCI El Médina Logo"
               className="w-20 h-auto object-contain"
             />
